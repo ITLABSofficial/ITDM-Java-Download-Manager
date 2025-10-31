@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 21
-Main-Class: com.itlabs.itdm.Main
-Created-By: Maven Integration for Eclipse
-Implementation-Title: ITDM-Java-Download-Manager
-Implementation-Vendor: itLabs
-Implementation-Version: 1.0.0
-
