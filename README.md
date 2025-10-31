@@ -11,6 +11,8 @@ Open-source Java Swing Download Manager by itLabs
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
+<img width="1076" height="714" alt="image" src="https://github.com/user-attachments/assets/7a93a900-89f3-464d-8b49-6dac7df0c66a" />
+
 
 ## TR Açıklama  
 **ITDM-Java Download Manager**, itLabs tarafından geliştirilen açık kaynaklı bir Java Swing projesidir.  
